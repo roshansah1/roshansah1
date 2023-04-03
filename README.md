@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://i.postimg.cc/d0SHXLcQ/web-dev.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roshan sah</h1>
 <h3 align="center">I recently completed a front-end development course from Geekster and completed 20+ good projects/assignments and passion for responsive website design. I have a strong understanding of front-end development, and I am excited to put my skills to use in a professional settings. I am a quick learner and a team player, and I am confident that i can be a valuable asset to any web development team.</h3>
 <p align="center"> <img src="https://i.postimg.cc/9Mr5k64T/coding-gif.gif" alt="roshansah1" />  </p>
