@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshan sah</h1>
-<h3 align="center">I am a Web Developer with less than 1 year of experience but worked on 20+ good projects and passion for responsive website design. I have a strong understanding of front-end development, and I am excited to put my skills to use in a professional settings. I am a quick learner and a team player, and I am confident that i can be a valuable asset to any web development team.</h3>
+<h3 align="center">I recently completed a front-end development course from Geekster and completed 20+ good projects/assignments and passion for responsive website design. I have a strong understanding of front-end development, and I am excited to put my skills to use in a professional settings. I am a quick learner and a team player, and I am confident that i can be a valuable asset to any web development team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imroshansah1&label=Profile%20views&color=0e75b6&style=flat" alt="imroshansah1" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=roshansah1" alt="roshansah1" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=roshansah1" alt="roshansah1" /> </p>
 
 - Created a Crypto Currency Price Tracker Website, which allows users to see the live price of the top 100 cryptocurrencies and a search feature available, users are able to search any cryptocurrencies. Key Features: Implemented Search feature, where user can search any cryptocurrency, and also implemented the details page, where user can see the detailed information of particular cryptocurrency with the Graph UI. Tech Stack used: HTML, CSS, JavaScript, API, GitHub [Crypto Price Tracker](https://www.roshansah.ml/4-Advance-JS/411-crypto-view/AdvanceJS-411-01/)
 
-- 🌱 I recently completed a front-end development course from Geekster. **HTML, CSS, JavaScript, React, Redux**
+- 🌱  **HTML, CSS, JavaScript, React, Redux**
 
 - Simple TODO React App, where the user can Add, Delete and Modify the Task, also clear all tasks in one click of a button and showed the number of pending tasks. Key Features: Simple React app with the additional feature that I implemented, After adding the task user can modify the existing tasks also able to delete a particular task, and in UI counting the number of tasks present. Tech Stack used: ReactJS, JSX(HTML), CSS, Material UI [TODO React App](https://roshansah1.github.io/react-todo-app/)
 
