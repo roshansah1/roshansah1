@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imroshansah1&label=Profile%20views&color=0e75b6&style=flat" alt="imroshansah1" /> </p>
 
-<p align="left"> <a href="https://github.com/roshansah1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansah1" alt="roshansah1" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=roshansah1" alt="roshansah1" /></a> </p>
 
 - Created a Crypto Currency Price Tracker Website, which allows users to see the live price of the top 100 cryptocurrencies and a search feature available, users are able to search any cryptocurrencies. Key Features: Implemented Search feature, where user can search any cryptocurrency, and also implemented the details page, where user can see the detailed information of particular cryptocurrency with the Graph UI. Tech Stack used: HTML, CSS, JavaScript, API, GitHub [Crypto Price Tracker](https://www.roshansah.ml/4-Advance-JS/411-crypto-view/AdvanceJS-411-01/)
 
