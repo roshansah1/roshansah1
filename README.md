@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **admin@roshansah.com**
 
-- 📄 Know about my experiences [Roshan Resume](https://roshansah.com/assets/Roshan_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://roshansah.com/assets/Roshan_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
