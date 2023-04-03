@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=roshansah1" alt="roshansah1" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://roshansah.com/#portfolio](https://roshansah.com/#portfolio)
+- 👨‍💻 All of my projects are available at :- [https://roshansah.com/#portfolio](https://roshansah.com/#portfolio)
 
-- 💬 Ask me about **JavaScript, React , Redux**
+- 💬 Ask me about :- **JavaScript, React , Redux**
 
-- 📫 How to reach me **admin@roshansah.com**
+- 📫 How to reach me :- **admin@roshansah.com**
 
-- 📄 Know about my experiences [My Resume](https://roshansah.com/assets/Roshan_Resume.pdf)
+- 📄 Know about my experiences :- [My Resume](https://roshansah.com/assets/Roshan_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
